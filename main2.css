@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.inner1 {
+    background-color: aqua;
+    height: 30%;
+    width: 30%;
+}
